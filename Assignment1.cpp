@@ -36,7 +36,7 @@ public:
   
  //function to reduce the car speed by 10
     void brake() {
-        speed -= 10; //function to reduce the car speed by 10
+        speed -= 10;
     }
 };
 
